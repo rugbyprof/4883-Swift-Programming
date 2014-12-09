@@ -16,15 +16,11 @@ Source: http://www.instafuze.com/?p=619
  
 What you need to Download: Click for the link
 
-[Yosemite](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=915041082&mt=12)
-
-[Windows 10 preview](http://windows.microsoft.com/en-us/windows/preview)
-
-[UniBeast](http://www.tonymacx86.com/downloads.php?do=file&id=244)
-
-[Multibeast](http://www.tonymacx86.com/downloads.php?do=file&id=242)
-
-[DSDT](http://www.tonymacx86.com/11-dsdt-database.html) (if needed)
+- [Yosemite](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=915041082&mt=12)
+- [Windows 10 preview](http://windows.microsoft.com/en-us/windows/preview)
+- [UniBeast](http://www.tonymacx86.com/downloads.php?do=file&id=244)
+- [Multibeast](http://www.tonymacx86.com/downloads.php?do=file&id=242)
+- [DSDT](http://www.tonymacx86.com/11-dsdt-database.html) (if needed)
 
 Inorder to download Unibeast, Multibeast  and DSDT files you need to have an account on tonymacx86.  If you don’t have an account then you can create an here.http://www.tonymacx86.com/register.php.
 
